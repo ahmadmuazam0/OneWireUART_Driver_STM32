@@ -1,0 +1,6 @@
+../Modules/Src/fe_uart.c:20:6:fe_uart_init	1
+../Modules/Src/fe_uart.c:34:5:fe_uart_send_dma	6
+../Modules/Src/fe_uart.c:71:6:fe_uart_on_tx_dma_complete	1
+../Modules/Src/fe_uart.c:78:6:fe_uart_on_tc_irq	1
+../Modules/Src/fe_uart.c:89:5:fe_uart_start_rx_dma	5
+../Modules/Src/fe_uart.c:108:6:fe_uart_on_rx_dma_complete	1

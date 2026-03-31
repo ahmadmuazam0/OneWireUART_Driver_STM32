@@ -1,0 +1,10 @@
+../Platform/Src/fe_platform_stm32_hal.c:11:22:G	16	static
+../Platform/Src/fe_platform_stm32_hal.c:12:28:U	16	static
+../Platform/Src/fe_platform_stm32_hal.c:14:6:fe_platform_txen_set	16	static
+../Platform/Src/fe_platform_stm32_hal.c:19:5:fe_platform_uart_tx_dma	32	static
+../Platform/Src/fe_platform_stm32_hal.c:27:5:fe_platform_uart_rx_dma	24	static
+../Platform/Src/fe_platform_stm32_hal.c:33:6:fe_platform_uart_enable_tc_it	16	static
+../Platform/Src/fe_platform_stm32_hal.c:38:6:fe_platform_uart_disable_tc_it	16	static
+../Platform/Src/fe_platform_stm32_hal.c:43:9:fe_platform_uart_is_tc	16	static
+../Platform/Src/fe_platform_stm32_hal.c:48:6:fe_platform_uart_clear_tc	16	static
+../Platform/Src/fe_platform_stm32_hal.c:58:6:fe_platform_uart_abort_rx	16	static

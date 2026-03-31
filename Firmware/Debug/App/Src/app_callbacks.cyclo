@@ -1,0 +1,3 @@
+../App/Src/app_callbacks.c:14:6:HAL_UARTEx_RxEventCallback	1
+../App/Src/app_callbacks.c:19:6:HAL_UART_TxCpltCallback	1
+../App/Src/app_callbacks.c:24:6:HAL_UART_ErrorCallback	1

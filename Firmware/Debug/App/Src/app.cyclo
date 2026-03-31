@@ -1,0 +1,12 @@
+../App/Src/app.c:44:13:disable_dma_ht	3
+../App/Src/app.c:54:13:start_u1_rx	1
+../App/Src/app.c:60:13:start_u2_rx	1
+../App/Src/app.c:66:13:stop_u2_rx	1
+../App/Src/app.c:71:13:start_u2_tx	4
+../App/Src/app.c:102:13:start_u1_tx	4
+../App/Src/app.c:121:6:app_init	1
+../App/Src/app.c:133:6:app_loop	1
+../App/Src/app.c:138:6:app_on_uart_rx_event	6
+../App/Src/app.c:163:6:app_on_uart_tx_cplt	3
+../App/Src/app.c:181:6:app_on_uart_error	3
+../App/Src/app.c:204:6:app_on_usart2_tc_irq	2

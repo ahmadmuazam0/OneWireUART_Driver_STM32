@@ -1,0 +1,13 @@
+../Modules/Src/feetech_scs.c:14:16:scs_checksum_bytes	24	static
+../Modules/Src/feetech_scs.c:22:12:wait_bus_idle	24	static
+../Modules/Src/feetech_scs.c:31:12:wait_rx_done	32	static
+../Modules/Src/feetech_scs.c:41:12:validate_reply_min	24	static
+../Modules/Src/feetech_scs.c:53:6:scs_init	16	static
+../Modules/Src/feetech_scs.c:60:6:scs_on_rx_cplt_isr	16	static
+../Modules/Src/feetech_scs.c:66:5:scs_ping	40	static
+../Modules/Src/feetech_scs.c:104:5:scs_read	40	static
+../Modules/Src/feetech_scs.c:148:5:scs_write	80	static
+../Modules/Src/feetech_scs.c:193:10:scs_deg_to_pos	24	static
+../Modules/Src/feetech_scs.c:204:5:scs_set_goal_position_raw	48	static
+../Modules/Src/feetech_scs.c:213:5:scs_set_goal_position_deg	24	static
+../Modules/Src/feetech_scs.c:218:6:scs_scan_ids	40	static
