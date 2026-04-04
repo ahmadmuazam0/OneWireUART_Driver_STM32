@@ -41,7 +41,14 @@ Alternatively, flash the built ELF directly:
 
 The electronics documentation includes a 1-Wire UART circuit using common tri-state buffering and 3.3V logic components.
 
-The schematic is designed to interface the STM32 UART with serial servo motors over a single bidirectional data line.
+The schematic is designed to interface the STM32 UART with serial servo motors over a single bidirectional data line
+<img width="569" height="425" alt="Screenshot 2026-02-24 153652" src="https://github.com/user-attachments/assets/4462708c-a7dc-439c-a9cc-0c8650bdf6bb" />
+
+As well the PCB design of the FE_URT Module with 5V based components
+<img width="608" height="505" alt="Screenshot 2026-03-16 145821" src="https://github.com/user-attachments/assets/789d0355-7403-4074-a908-fe11cd35a9b3" />
+
+Here's the module developed on varoboard and tested.
+![20260309_162833](https://github.com/user-attachments/assets/ae54b596-12b4-4247-bf62-01bfcf76afc8)
 
 ## Notes
 
